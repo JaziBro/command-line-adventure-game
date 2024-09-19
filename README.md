@@ -15,23 +15,19 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-Navigate to the project directory:
-
-```bash
-Copy code
-cd your-repository-name
-```
-Install the necessary dependencies:
-
-```bash
-Copy code
-npm install
-```
-Running the Game
+   
+2. Navigate to the project directory:
+   ```bash
+   cd your-repository-name
+   ```
+3. Install the necessary dependencies:
+   ```bash
+   npm install
+   ```
+### Running the Game
 After installation, start the game by running the following command:
 
 ```bash
-Copy code
 node main.js
 ```
 Enjoy the adventure!
